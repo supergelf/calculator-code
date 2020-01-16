@@ -1,4 +1,4 @@
-# Calculator-code:
+# Calculator:
 simple calculator project to learn about tkinter
 
 
